@@ -193,7 +193,7 @@ webservice/ui/src/constants/constants.js
 ```
 
 The `CAMERA_FEED_SERVER` and `MQTT_SERVER` both use the workspace configuration. 
-You can change each of these as follows:
+You can change each of these as follows below:
 
 ```
 CAMERA_FEED_SERVER: "http://localhost:3004"
