@@ -91,7 +91,7 @@ Note that you may need to do additional processing of the output to handle incor
 
 **If you are otherwise unable to find a suitable model after attempting and successfully converting at least three other models**, you can document in your write-up what the models were, how you converted them, and why they failed, and then utilize any of the Intel® Pre-Trained Models that may perform better.
 
-## Run the application
+## How to Run the application
 
 From the main directory:
 
